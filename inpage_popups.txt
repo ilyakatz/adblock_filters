@@ -1,0 +1,11 @@
+[Adblock Plus 1.1]
+!
+!
+! Maintained by:
+! Last Modified:
+! Expires: 1
+
+! Inpage Popups
+
+!tumblr.com
+||assets.tumblr.com/assets/html/iframe/follow.html
