@@ -13,3 +13,6 @@
 !www.businessweek.com
 ##.slideout_container
 ##.fsrFloatingContainer
+
+!www.forbes.com
+##.forbes_flyer
