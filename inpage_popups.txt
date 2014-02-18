@@ -12,3 +12,4 @@
 
 !www.businessweek.com
 ##.slideout_container
+##.fsrFloatingContainer
