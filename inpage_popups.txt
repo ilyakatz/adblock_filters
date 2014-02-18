@@ -9,3 +9,6 @@
 
 !tumblr.com
 ||assets.tumblr.com/assets/html/iframe/follow.html
+
+!www.businessweek.com
+##.slideout_container
