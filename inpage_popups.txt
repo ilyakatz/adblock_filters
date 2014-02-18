@@ -10,9 +10,12 @@
 !tumblr.com
 ||assets.tumblr.com/assets/html/iframe/follow.html
 
-!www.businessweek.com
+!businessweek.com
 ##.slideout_container
 ##.fsrFloatingContainer
 
-!www.forbes.com
+!forbes.com
 ##.forbes_flyer
+
+!sliptalk.com
+###scrolltriggered
