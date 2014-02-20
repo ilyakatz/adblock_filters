@@ -14,3 +14,4 @@ businessweek.com##.slideout_container
 businessweek.com##.fsrFloatingContainer
 forbes.com ##.forbes_flyer
 sliptalk.com ##scrolltriggered
+techcrunch.com##.toaster.section
