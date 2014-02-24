@@ -16,3 +16,4 @@ forbes.com/json/get_follow_bar
 sliptalk.com ##scrolltriggered
 techcrunch.com##.toaster.section
 viralnova.com###article-finished
+addthis.com##.at4-whatsnext-outer-container
