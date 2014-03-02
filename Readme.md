@@ -5,7 +5,7 @@ This filter list for AdBlock removes popup sections on sites that distracts from
 ![Forbes popup](https://api.monosnap.com/image/download?id=Aa6Tu1yZU07BNuNEb4V9BWQjc0pn4M)
 
 ## Subscription
-[Subscribe](abp:subscribe?location=inpage_popups.txt?raw=true&amp;title=Inpage%20popups%20filter)
+[Subscribe](abp:subscribe?location=http%3A%2F%2Fraw2.github.com%2Filyakatz%2Fadblock_filters%2Fmaster%2Finpage_popups.txt&amp;title=Inpage%20popups%20filter)
 
 To take advantage of this list, add a subscription in AdBlock
 
