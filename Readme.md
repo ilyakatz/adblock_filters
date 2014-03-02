@@ -1,3 +1,5 @@
+[Subscribe](abp:subscribe?location=http://raw2.github.com/ilyakatz/adblock_filters/master/inpage_popups.txt&title=Inpage+popups+filter)
+
 ## Introduction
 
 This filter list for AdBlock removes popup sections on sites that distracts from the main content.
