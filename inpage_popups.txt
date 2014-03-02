@@ -7,7 +7,8 @@
 
 ! Inpage Popups
 
-!tumblr.com
+! Scroll down popups - messages that appear once you scroll down
+
 ||assets.tumblr.com/assets/html/iframe/follow.html
 
 businessweek.com##.slideout_container
