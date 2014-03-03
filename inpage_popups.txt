@@ -26,3 +26,4 @@ wbur.org###next-article-wrap
 ! Persistent popups - messages that are always present on top of the content
 csdecisions.com###persistContainer
 about.me##.notification.signupbubble
+ibtimes.com###cboxWrapper
