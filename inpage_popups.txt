@@ -17,9 +17,11 @@ forbes.com/json/get_follow_bar
 sliptalk.com ##scrolltriggered
 techcrunch.com##.toaster.section
 viralnova.com###article-finished
-addthis.com##.at4-whatsnext-outer-container
 washingtonpost.com###single-next-article
 wbur.org###next-article-wrap
+
+!AddThis Smart Layer
+.at4-whatsnext-outer-container.addthis-smartlayers
 
 ! Persistent popups - messages that are always present on top of the content
 csdecisions.com###persistContainer
