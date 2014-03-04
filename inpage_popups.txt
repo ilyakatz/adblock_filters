@@ -18,6 +18,7 @@ sliptalk.com ##scrolltriggered
 techcrunch.com##.toaster.section
 viralnova.com###article-finished
 washingtonpost.com###single-next-article
+washingtonpost.com###recommended-toast
 wbur.org###next-article-wrap
 
 !AddThis Smart Layer
