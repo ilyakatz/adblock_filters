@@ -20,9 +20,13 @@ viralnova.com###article-finished
 washingtonpost.com###single-next-article
 washingtonpost.com###recommended-toast
 wbur.org###next-article-wrap
+socialtriggers.com###upprev_box
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
+socialtriggers.com###fancybox-overlay
+socialtriggers.com###fancybox-wrap
+socialtriggers.com######popup1
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
