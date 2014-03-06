@@ -21,6 +21,9 @@ washingtonpost.com###single-next-article
 washingtonpost.com###recommended-toast
 wbur.org###next-article-wrap
 
+!Popup prompt to sign up
+mnn.com###MNNEmailReg1013_adpB
+
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
 
