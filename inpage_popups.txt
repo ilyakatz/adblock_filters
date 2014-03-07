@@ -21,6 +21,7 @@ washingtonpost.com###single-next-article
 washingtonpost.com###recommended-toast
 wbur.org###next-article-wrap
 socialtriggers.com###upprev_box
+boredpanda.com##.fixed-like-box
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
