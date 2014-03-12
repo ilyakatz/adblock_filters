@@ -22,6 +22,7 @@ washingtonpost.com###recommended-toast
 wbur.org###next-article-wrap
 socialtriggers.com###upprev_box
 boredpanda.com##.fixed-like-box
+theweek.co.uk###slidebox
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
