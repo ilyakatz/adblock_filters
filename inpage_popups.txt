@@ -23,6 +23,7 @@ wbur.org###next-article-wrap
 socialtriggers.com###upprev_box
 boredpanda.com##.fixed-like-box
 theweek.co.uk###slidebox
+thisismarvelous.com###slidebox
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
