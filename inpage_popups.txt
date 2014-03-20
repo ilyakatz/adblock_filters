@@ -24,12 +24,14 @@ socialtriggers.com###upprev_box
 boredpanda.com##.fixed-like-box
 theweek.co.uk###slidebox
 thisismarvelous.com###slidebox
+skift.com###post-fly-in
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
 socialtriggers.com###fancybox-overlay
 socialtriggers.com###fancybox-wrap
 socialtriggers.com######popup1
+||*plugins/skift-popup/js/script-min.js$script,domain=skift.com
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
