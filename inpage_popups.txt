@@ -32,6 +32,7 @@ socialtriggers.com###fancybox-overlay
 socialtriggers.com###fancybox-wrap
 socialtriggers.com######popup1
 ||*plugins/skift-popup/js/script-min.js$script,domain=skift.com
+bananarepublic.gap.com###emailAcqPopupContainer
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
