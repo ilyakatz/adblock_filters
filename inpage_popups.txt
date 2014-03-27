@@ -31,6 +31,8 @@ bloomberg.com##.flyout
 mnn.com###MNNEmailReg1013_adpB
 socialtriggers.com###fancybox-overlay
 socialtriggers.com###fancybox-wrap
+javacodegeeks.com##.fancybox-wrap
+javacodegeeks.com##.fancybox-overlay
 socialtriggers.com######popup1
 ||*plugins/skift-popup/js/script-min.js$script,domain=skift.com
 bananarepublic.gap.com###emailAcqPopupContainer
