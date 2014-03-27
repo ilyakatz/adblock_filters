@@ -25,6 +25,7 @@ boredpanda.com##.fixed-like-box
 theweek.co.uk###slidebox
 thisismarvelous.com###slidebox
 skift.com###post-fly-in
+bloomberg.com##.flyout
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
