@@ -37,6 +37,8 @@ javacodegeeks.com##.fancybox-overlay
 socialtriggers.com######popup1
 ||*plugins/skift-popup/js/script-min.js$script,domain=skift.com
 bananarepublic.gap.com###emailAcqPopupContainer
+valuewalk.com###om-lightbox-clean-slate-theme-optin-wrap
+valuewalk.com###om-clkwwfpdhc-lightbox
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
