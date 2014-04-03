@@ -39,6 +39,7 @@ socialtriggers.com######popup1
 bananarepublic.gap.com###emailAcqPopupContainer
 valuewalk.com###om-lightbox-clean-slate-theme-optin-wrap
 valuewalk.com###om-clkwwfpdhc-lightbox
+chupamobile.com##.mfp-ready
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
