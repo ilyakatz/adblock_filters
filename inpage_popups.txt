@@ -28,6 +28,7 @@ skift.com###post-fly-in
 bloomberg.com##.flyout
 gadgec.com###conversions-box
 petflow.com###next-post
+versus.com##.fb-teaser
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
