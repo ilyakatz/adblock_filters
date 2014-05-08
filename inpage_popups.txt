@@ -43,6 +43,8 @@ bananarepublic.gap.com###emailAcqPopupContainer
 valuewalk.com###om-lightbox-clean-slate-theme-optin-wrap
 valuewalk.com###om-clkwwfpdhc-lightbox
 chupamobile.com##.mfp-ready
+mercola.com##.ui-widget-overlay
+mercola.com##.rrpopup
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
