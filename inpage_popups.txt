@@ -45,6 +45,8 @@ valuewalk.com###om-clkwwfpdhc-lightbox
 chupamobile.com##.mfp-ready
 mercola.com##.ui-widget-overlay
 mercola.com##.rrpopup
+webmd.com###colorbox
+webmd.com###webmdHoverOverlay
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
