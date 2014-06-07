@@ -47,6 +47,7 @@ mercola.com##.ui-widget-overlay
 mercola.com##.rrpopup
 webmd.com###colorbox
 webmd.com###webmdHoverOverlay
+houzz.com##.signUpPromoWrapper
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
