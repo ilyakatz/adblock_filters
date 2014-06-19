@@ -34,6 +34,7 @@ coindesk.com##.popup
 cryptocoinsnews.com###darkbackground
 cryptocoinsnews.com###next-post
 cryptocoinsnews.com##.next-post.next-post-open
+tomshardware.com###bomRecommendation
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
