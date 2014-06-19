@@ -31,10 +31,10 @@ petflow.com###next-post
 versus.com##.fb-teaser
 usatoday.com##.recommended-flyout-container
 coindesk.com##.popup
-cryptocoinsnews.com###darkbackground
 cryptocoinsnews.com###next-post
 cryptocoinsnews.com##.next-post.next-post-open
 tomshardware.com###bomRecommendation
+dmnews.com###slideOutWrapper
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
@@ -53,6 +53,7 @@ mercola.com##.rrpopup
 webmd.com###colorbox
 webmd.com###webmdHoverOverlay
 houzz.com##.signUpPromoWrapper
+cryptocoinsnews.com###darkbackground
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
