@@ -30,6 +30,7 @@ gadgec.com###conversions-box
 petflow.com###next-post
 versus.com##.fb-teaser
 usatoday.com##.recommended-flyout-container
+coindesk.com##.coindesk.com
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
