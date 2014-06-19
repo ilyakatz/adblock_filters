@@ -35,6 +35,7 @@ cryptocoinsnews.com###next-post
 cryptocoinsnews.com##.next-post.next-post-open
 tomshardware.com###bomRecommendation
 dmnews.com###slideOutWrapper
+pcworld.com###toaster
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
