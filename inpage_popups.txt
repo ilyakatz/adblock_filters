@@ -55,6 +55,7 @@ webmd.com###colorbox
 webmd.com###webmdHoverOverlay
 houzz.com##.signUpPromoWrapper
 cryptocoinsnews.com###darkbackground
+sitepoint.com###triggered-cta-box-wrapper
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
