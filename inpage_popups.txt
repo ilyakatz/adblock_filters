@@ -31,7 +31,7 @@ petflow.com###next-post
 versus.com##.fb-teaser
 usatoday.com##.recommended-flyout-container
 coindesk.com##.popup
-cryptocoinsnews.com###background
+cryptocoinsnews.com###darkbackground
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
