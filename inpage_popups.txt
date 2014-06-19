@@ -32,6 +32,8 @@ versus.com##.fb-teaser
 usatoday.com##.recommended-flyout-container
 coindesk.com##.popup
 cryptocoinsnews.com###darkbackground
+cryptocoinsnews.com###next-post
+cryptocoinsnews.com##.next-post.next-post-open
 
 !Popup prompt to sign up
 mnn.com###MNNEmailReg1013_adpB
