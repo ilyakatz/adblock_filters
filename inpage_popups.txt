@@ -77,7 +77,6 @@ www.forexminute.com###upprev_box.hidden-xs.hidden-sm
 thehackernews.com##.ff
 www.wired.com###post-nav.fixed.expanded.visible > .prev.no-image.module-prevnext[href="http://www.wired.com/2014/04/sat-comms/"]
 www.wired.com###post-nav.fixed.expanded.visible > .next.no-image.module-prevnext[href="http://www.wired.com/2014/04/how-to-update-twitter-redesign/"]
-###popoutContainer.popped-out
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
