@@ -12,7 +12,7 @@ To take advantage of this list, add a subscription in AdBlock
 * Click _Add Filter Subscription_
 * Click _Add a different subscription_
 * Under _Subscription title_, add **Inpage popups filter**
-* Under _Filter list location_, add **https://raw2.github.com/ilyakatz/adblock_filters/master/inpage_popups.txt**
+* Under _Filter list location_, add **https://raw.githubusercontent.com/ilyakatz/adblock_filters/master/inpage_popups.txt**
 
 
 ![AdBlock filter](https://api.monosnap.com/image/download?id=QARaHsApdaKkiLKjBMRCuuEaGONMen)
