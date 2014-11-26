@@ -36,8 +36,14 @@ cryptocoinsnews.com##.next-post.next-post-open
 tomshardware.com###bomRecommendation
 dmnews.com###slideOutWrapper
 pcworld.com###toaster
+www.economist.com###next-article-carousel-wrapper.nocontent
+www.collegehumor.com###like-box
+www.businessinsider.com##.recommendation.sailthruRecommendation
+www.adme.ru##.fixed-like-box.js-fixed-like-box
 
 !Popup prompt to sign up
+www.economist.com###simplemodal-overlay.simplemodal-overlay
+www.economist.com###simplemodal-container.simplemodal-container > .simplemodal-wrap
 mnn.com###MNNEmailReg1013_adpB
 socialtriggers.com###fancybox-overlay
 socialtriggers.com###fancybox-wrap
@@ -57,6 +63,21 @@ houzz.com##.signUpPromoWrapper
 cryptocoinsnews.com###darkbackground
 sitepoint.com###triggered-cta-box-wrapper
 sitepoint.com##.triggered-cta-box-wrapper-bg
+99bitcoins.com##.sumome-vex.sumome-popup.sumome-popup-medium.sumome-popup-template-default > .sumome-vex-content.sumome-popup-content > .sumome-popup-form
+99bitcoins.com##.sumome-vex.sumome-popup.sumome-popup-medium.sumome-popup-template-default > .sumome-vex-overlay.sumome-popup-overlay
+www.tripadvisor.com##.s4.dg.shadow.fblb.fblb_lagoon.overlay
+www.tripadvisor.com##.overlayBG
+www.overstock.com###cboxOverlay
+www.overstock.com###omail-standard-cb
+www.overstock.com###cboxLoadedContent
+www.overstock.com###cboxContent
+www.forexminute.com###element_to_pop_up
+www.forexminute.com##.bModal.__bPopup1.hidden-xs.hidden-sm.hidden-md
+www.forexminute.com###upprev_box.hidden-xs.hidden-sm
+thehackernews.com##.ff
+www.wired.com###post-nav.fixed.expanded.visible > .prev.no-image.module-prevnext[href="http://www.wired.com/2014/04/sat-comms/"]
+www.wired.com###post-nav.fixed.expanded.visible > .next.no-image.module-prevnext[href="http://www.wired.com/2014/04/how-to-update-twitter-redesign/"]
+###popoutContainer.popped-out
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
@@ -65,3 +86,9 @@ sitepoint.com##.triggered-cta-box-wrapper-bg
 csdecisions.com###persistContainer
 about.me##.notification.signupbubble
 ibtimes.com###cboxWrapper
+
+! Unclassified
+www.autoblog.com###meerkat.ymm-catfish
+blogs.wsj.com###magic
+||www.economist.com//ec-homepage/regov/start
+
