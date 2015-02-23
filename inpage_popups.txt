@@ -40,6 +40,15 @@ www.economist.com###next-article-carousel-wrapper.nocontent
 www.collegehumor.com###like-box
 www.businessinsider.com##.recommendation.sailthruRecommendation
 www.adme.ru##.fixed-like-box.js-fixed-like-box
+pcworld.com###toaster
+www.businessinsider.com###sailthru-concierge
+www.businessinsider.com###sailthru_iframe
+www.businessinsider.com##.recommendation.sailthruRecommendation
+techcrunch.com##.toaster.section.popped
+markmanson.net###article-finished
+coindesk.com##.popup
+www.technorms.com###.at-whatsnext-content
+
 
 !Popup prompt to sign up
 www.economist.com###simplemodal-overlay.simplemodal-overlay
@@ -77,6 +86,11 @@ www.forexminute.com###upprev_box.hidden-xs.hidden-sm
 thehackernews.com##.ff
 www.wired.com###post-nav.fixed.expanded.visible > .prev.no-image.module-prevnext[href="http://www.wired.com/2014/04/sat-comms/"]
 www.wired.com###post-nav.fixed.expanded.visible > .next.no-image.module-prevnext[href="http://www.wired.com/2014/04/how-to-update-twitter-redesign/"]
+ed.ted.com##.stay-updated-popup
+food52.com###email-modal-bg.modal-bg.email
+food52.com###email-modal.modal-box
+www.shutterfly.com##.modal-backdrop.fade.in
+www.shutterfly.com###docWide.col-300-r.cf > .modal.fade.in
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
@@ -85,6 +99,7 @@ www.wired.com###post-nav.fixed.expanded.visible > .next.no-image.module-prevnext
 csdecisions.com###persistContainer
 about.me##.notification.signupbubble
 ibtimes.com###cboxWrapper
+www.theepochtimes.com###backgroundPopup
 
 ! Unclassified
 www.autoblog.com###meerkat.ymm-catfish
