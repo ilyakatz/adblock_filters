@@ -48,7 +48,7 @@ techcrunch.com##.toaster.section.popped
 markmanson.net###article-finished
 coindesk.com##.popup
 www.technorms.com###.at-whatsnext-content
-
+filmsforaction.org###cornerPopIn
 
 !Popup prompt to sign up
 www.economist.com###simplemodal-overlay.simplemodal-overlay
@@ -91,6 +91,7 @@ food52.com###email-modal-bg.modal-bg.email
 food52.com###email-modal.modal-box
 www.shutterfly.com##.modal-backdrop.fade.in
 www.shutterfly.com###docWide.col-300-r.cf > .modal.fade.in
+rakuten.com###pcPromoImg
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
