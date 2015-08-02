@@ -49,6 +49,11 @@ markmanson.net###article-finished
 coindesk.com##.popup
 www.technorms.com###.at-whatsnext-content
 filmsforaction.org###cornerPopIn
+www.fastcodesign.stfi.re###SF_SUGGESTIONS
+blog.bufferapp.com###inscroll
+www.techsupportalert.com###slidead-popup.block
+fossbytes.com###dgd_scrollbox-13027.dgd_stb_box
+marketium.ru###bottomFacebookBlock.active
 
 !Popup prompt to sign up
 www.economist.com###simplemodal-overlay.simplemodal-overlay
@@ -92,6 +97,17 @@ food52.com###email-modal.modal-box
 www.shutterfly.com##.modal-backdrop.fade.in
 www.shutterfly.com###docWide.col-300-r.cf > .modal.fade.in
 rakuten.com###pcPromoImg
+www.nycgo.com/index.php/newsletters/newsletter-modal/popup/nycgo:free
+www.nycgo.com###fancybox-overlay
+www.golearnto.com###nrlsk-form_5190
+adventuretravel.about.com###newsletter.pre-submit.p-bg.newsletter.group.widget
+www.contiki.com###popup_subscription.popup-subscribe
+www.gadventures.com###footer.clearfix > .footer-usp > .newsletter-slider.visible-desktop.slide
+www.boredpanda.com##.fixed-popup.english
+www.betterment.com##.bmt-modal.modal
+dictionary.reference.com###fly-out.fly-out.fly-out-desktop
+challengepost.com##.alert-box.newsletter-alert
+www.newyorkfamily.com###mc4wp_widget-2.widget.widget_mc4wp_widget
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
@@ -106,4 +122,8 @@ www.theepochtimes.com###backgroundPopup
 www.autoblog.com###meerkat.ymm-catfish
 blogs.wsj.com###magic
 ||www.economist.com//ec-homepage/regov/start
+
+! Social Media page blocker
+marketium.ru###facebookpopup-fanbox.fbpContainer
+marketium.ru##.fancybox-overlay.fancybox-overlay-fixed
 
