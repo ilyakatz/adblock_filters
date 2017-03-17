@@ -54,6 +54,9 @@ blog.bufferapp.com###inscroll
 www.techsupportalert.com###slidead-popup.block
 fossbytes.com###dgd_scrollbox-13027.dgd_stb_box
 marketium.ru###bottomFacebookBlock.active
+brandonhilkert.com###funnel-tools-capture
+||www.sasionline.org/wp-content/uploads/2015/01/free-monthly-box.png$image
+
 
 !Popup prompt to sign up
 www.economist.com###simplemodal-overlay.simplemodal-overlay
@@ -108,6 +111,10 @@ www.betterment.com##.bmt-modal.modal
 dictionary.reference.com###fly-out.fly-out.fly-out-desktop
 challengepost.com##.alert-box.newsletter-alert
 www.newyorkfamily.com###mc4wp_widget-2.widget.widget_mc4wp_widget
+www.doctorofcredit.com##.sumome-popup-small.sumome-popup-mode-subscribe.sumome-popup.sumome-vex > .sumome-popup-overlay.sumome-vex-overlay
+www.doctorofcredit.com###newslettersignupwidget-3
+www.doctorofcredit.com##.sumome-popup-small.sumome-popup-mode-subscribe.sumome-popup.sumome-vex > .sumome-popup-res-small.sumome-popup-has-optout.sumome-popup-template-default.sumome-popup-content.sumome-vex-content > .sumome-popup-form
+upliftconnect.com###upllfe-slidein-signup
 
 !AddThis Smart Layer
 ##.at4-whatsnext-outer-container.addthis-smartlayers
@@ -117,6 +124,9 @@ csdecisions.com###persistContainer
 about.me##.notification.signupbubble
 ibtimes.com###cboxWrapper
 www.theepochtimes.com###backgroundPopup
+marketium.ru##.fancybox-overlay-fixed.fancybox-overlay
+fabulesslyfrugal.com###e705d1dc949c0e0fc27616746c12868b53e5711f4-container
+thedevelopmentset.com##.js-stickyFooter
 
 ! Unclassified
 www.autoblog.com###meerkat.ymm-catfish
@@ -124,6 +134,7 @@ blogs.wsj.com###magic
 ||www.economist.com//ec-homepage/regov/start
 
 ! Social Media page blocker
-marketium.ru###facebookpopup-fanbox.fbpContainer
 marketium.ru##.fancybox-overlay.fancybox-overlay-fixed
-
+marketium.ru###facebookpopup-fanbox
+marketium.ru###bottomFacebookBlock
+www.atlasobscura.com###facebook-page-plugin
